@@ -74,13 +74,4 @@
 
 ---
 
-## 📈 GitHub Stats / Thống kê
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=van-phuong-67615&show_icons=true&theme=radium&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=van-phuong-67615&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
 <p align="center"><i>"Merging coding expertise with research and problem-solving."</i></p>
